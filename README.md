@@ -2,6 +2,10 @@
 
 This project visualizes the data of e-charging stations in the city of Heidelberg, covering the period from 1999 to 2022.
 
+### Project Video:
+
+https://github.com/user-attachments/assets/44b43fec-f9d2-45bf-a584-b110b85510ea
+
 ### Data Sources:
 - The original data, which provides an overview of e-charging stations in Heidelberg, is sourced from [European data](https://data.europa.eu/data/datasets/1ff7b0d0-c1e2-42e3-8d64-6bc9dbfd7855?locale=de).
   
@@ -17,8 +21,5 @@ This project visualizes the data of e-charging stations in the city of Heidelber
 - **Cleaned Data**: The final processed dataset is saved as `new_ladesaulen_hd.xlsx`.
 - **Tableau Workbook**: The visualization is saved as `Heidelberg.twb`.
 
-### Short video from Tableau
 
-
-https://github.com/user-attachments/assets/44b43fec-f9d2-45bf-a584-b110b85510ea
 

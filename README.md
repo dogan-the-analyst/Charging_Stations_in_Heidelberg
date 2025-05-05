@@ -21,5 +21,28 @@ https://github.com/user-attachments/assets/44b43fec-f9d2-45bf-a584-b110b85510ea
 - **Cleaned Data**: The final processed dataset is saved as `new_ladesaulen_hd.xlsx`.
 - **Tableau Workbook**: The visualization is saved as `Heidelberg.twb`.
 
+---
 
+## UPDATE: Key Findings from SQL Analysis:
 
+- **Geographic Distribution (`results\dist_by_postal_codes.csv`)**:  
+  The highest concentration of stations is in postal code **69126** (11 stations), followed by **69115** (7 stations).
+
+- **Historical Data (`results\oldest_stations.csv`)**:  
+  The oldest stations were installed in **1999** by *Stadtwerke Heidelberg Energie GmbH*.
+
+- **Top Performer (`results\operator_performance.csv`)**:  
+  *Stadtwerke Heidelberg Energie GmbH* emerges as the most active operator, deploying **30 stations** within three years (2020-2022).
+
+- **Market Dominance** (`results\perc_dist.csv`):  
+  Three main operators account for **75% of all stations (57/75)**:  
+  - *Stadtwerke Heidelberg Energie GmbH*: 64.00%  
+  - *HEG Heidelberger Energiegenossenschaft eG*: 6.67%  
+  - *Mercedes-Benz AG - Niederlassung Mannheim-Heidelberg-Landau*: 5.33%  
+
+- **Construction Boom** (`results\stations_per_year.csv`):  
+  80% of stations were built during **2019-2022**:  
+  - 2019: 8 stations  
+  - 2020: 28 stations  
+  - 2021: 21 stations  
+  - 2022: 3 stations  

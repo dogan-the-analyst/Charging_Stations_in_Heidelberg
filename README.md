@@ -34,13 +34,13 @@ https://github.com/user-attachments/assets/44b43fec-f9d2-45bf-a584-b110b85510ea
 - **Top Performer (`results\operator_performance.csv`)**:  
   *Stadtwerke Heidelberg Energie GmbH* emerges as the most active operator, deploying **30 stations** within three years (2020-2022).
 
-- **Market Dominance** (`results\perc_dist.csv`):  
+- **Market Dominance (`results\perc_dist.csv`)**:  
   Three main operators account for **75% of all stations (57/75)**:  
   - *Stadtwerke Heidelberg Energie GmbH*: 64.00%  
   - *HEG Heidelberger Energiegenossenschaft eG*: 6.67%  
   - *Mercedes-Benz AG - Niederlassung Mannheim-Heidelberg-Landau*: 5.33%  
 
-- **Construction Boom** (`results\stations_per_year.csv`):  
+- **Construction Boom (`results\stations_per_year.csv`)**:  
   80% of stations were built during **2019-2022**:  
   - 2019: 8 stations  
   - 2020: 28 stations  
